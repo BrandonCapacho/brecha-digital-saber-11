@@ -1,6 +1,6 @@
 # 📶 Brecha digital y resultados Saber 11 en Colombia
 
-**Proyecto final · Ciencia de Datos · Universidad EAN**
+**Proyecto final · DATAXPERIENCE · Universidad EAN**
 
 > ¿Qué tanto se relaciona el acceso a internet y computador en el hogar con el puntaje global del examen Saber 11, y podemos usar esa información para predecir el desempeño de un estudiante?
 
@@ -8,19 +8,19 @@
 
 | Nombre | Programa |
 |---|---|
-| [Integrante 1] | Ingeniería de Sistemas |
-| [Integrante 2] | Ingeniería de Sistemas |
-| [Integrante 3] | Ingeniería de Sistemas |
+| BRANDON CAPACHO | Ingeniería de Sistemas |
+| JUAN NICOLAS GALINDO | Ingeniería de Sistemas |
+
 
 ## 🎥 Video de presentación
 
-**▶️ [Ver el video aquí](PEGAR_ENLACE_AL_VIDEO)** · duración: X:XX min
+
 
 ## 📌 Contexto
 
 Como futuros ingenieros de sistemas, la conectividad y el acceso a tecnología son parte de nuestro campo. Analizamos si la **brecha digital** (no tener internet o computador en casa) se convierte en una **brecha de aprendizaje** en el Saber 11, usando datos abiertos del ICFES.
 
-- **Fuente:** ICFES – *Resultados únicos Saber 11*, [datos.gov.co](https://www.datos.gov.co/resource/kgxf-xxbe) (API pública).
+- **Fuente:** ICFES – *Resultados únicos Saber 11*, https://www.datos.gov.co/resource/kgxf-xxbe (API pública).
 - **Muestra:** periodo 2022-2, muestra sistemática por consecutivo (termina en 317, 569 u 842): 3.170 filas crudas → **1.584 estudiantes** únicos.
 - **Herramientas:** Python en Google Colab · pandas · seaborn/matplotlib · SciPy · statsmodels · scikit-learn.
 
