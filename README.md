@@ -8,13 +8,13 @@
 
 | Nombre | Programa |
 |---|---|
-| [Integrante 1] | Ingeniería de Sistemas |
-| [Integrante 2] | Ingeniería de Sistemas |
-| [Integrante 3] | Ingeniería de Sistemas |
+| BRANDON SAYID CAPACHO LEAL | Ingeniería de Sistemas |
+| JUAN NICOLAS GALINDO | Ingeniería de Sistemas |
+
 
 ## 🎥 Video de presentación
 
-**▶️ [Ver el video aquí](PEGAR_ENLACE_AL_VIDEO)** · duración: X:XX min
+**▶️ [Ver el video aquí](PEGAR_ENLACE_AL_VIDEO)** · duración:
 
 ## 📌 Contexto
 
