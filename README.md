@@ -9,7 +9,7 @@
 | Nombre | Programa |
 |---|---|
 | BRANDON SAYID CAPACHO LEAL | Ingeniería de Sistemas |
-| JUAN NICOLAS GALINDO | Ingeniería de Sistemas |
+| JUAN NICOLÁS GALINDO | Ingeniería de Sistemas |
 
 
 ## 🎥 Video de presentación
@@ -49,7 +49,7 @@ Como futuros ingenieros de sistemas, la conectividad y el acceso a tecnología s
 │   ├── presentacion_brecha_digital_saber11.pptx
 │   └── presentacion_brecha_digital_saber11.pdf
 └── video/
-    └── guion_video.md            ← guion y enlace del video
+    └── Guion_del_Video.docx      ← guion del video
 ```
 
 ## ▶️ Cómo ejecutar
