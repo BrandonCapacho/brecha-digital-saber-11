@@ -1,0 +1,547 @@
+1
+00:00:00,000 --> 00:00:01,010
+Hola,
+
+2
+00:00:01,280 --> 00:00:03,000
+somos Nicolás Galindo y Brandon
+
+3
+00:00:03,000 --> 00:00:04,280
+Capacho, estudiantes de Ingeniería
+
+4
+00:00:04,280 --> 00:00:04,970
+de Sistemas.
+
+5
+00:00:05,360 --> 00:00:06,740
+Para nuestro proyecto final de
+
+6
+00:00:06,740 --> 00:00:09,260
+ciencia de datos, nos hicimos la
+
+7
+00:00:09,260 --> 00:00:10,470
+pregunta clave.
+
+8
+00:00:10,700 --> 00:00:12,540
+La brecha digital en Colombia se
+
+9
+00:00:12,540 --> 00:00:14,200
+traduce como una brecha de
+
+10
+00:00:14,200 --> 00:00:15,150
+aprendizaje.
+
+11
+00:00:15,700 --> 00:00:17,140
+Específicamente, los estudiantes
+
+12
+00:00:17,140 --> 00:00:18,090
+sin internet
+
+13
+00:00:18,400 --> 00:00:19,700
+ni computadores en casa obtienen
+
+14
+00:00:19,700 --> 00:00:21,690
+menores puntajes en el Saber 11.
+
+15
+00:00:21,820 --> 00:00:23,480
+Para responderlo, analizamos una
+
+16
+00:00:23,480 --> 00:00:26,140
+muestra de 1.584 estudiantes del
+
+17
+00:00:26,140 --> 00:00:28,720
+periodo 2022-2 usando datos
+
+18
+00:00:28,720 --> 00:00:30,130
+abiertos de el ICFES.
+
+19
+00:00:31,340 --> 00:00:33,420
+Al momento de realizar o de
+
+20
+00:00:33,420 --> 00:00:36,080
+obtener los resultados, los datos
+
+21
+00:00:36,080 --> 00:00:38,620
+crudos de el ICFES, podemos
+
+22
+00:00:38,620 --> 00:00:41,760
+encontrar diferentes situaciones
+
+23
+00:00:41,760 --> 00:00:43,000
+en las cuales los datos vienen
+
+24
+00:00:43,000 --> 00:00:45,800
+de manera típica, guardados como
+
+25
+00:00:45,800 --> 00:00:47,400
+texto, nulos no codificados,
+
+26
+00:00:47,400 --> 00:00:48,820
+edades atípicas y registros
+
+27
+00:00:48,820 --> 00:00:49,790
+duplicados.
+
+28
+00:00:50,040 --> 00:00:51,740
+Debido a ello, se realizó un
+
+29
+00:00:51,740 --> 00:00:53,320
+proceso riguroso de limpieza y
+
+30
+00:00:53,320 --> 00:00:55,280
+transformación, convirtiendo tipos
+
+31
+00:00:55,280 --> 00:00:57,400
+de datos, calculamos edades reales
+
+32
+00:00:57,400 --> 00:00:59,100
+y creamos una nueva variable
+
+33
+00:00:59,100 --> 00:01:00,680
+clave, el índice de acceso
+
+34
+00:01:00,680 --> 00:01:04,000
+digital, que califica de 0 a
+
+35
+00:01:04,000 --> 00:01:05,720
+2 los recursos tecnológicos del
+
+36
+00:01:05,720 --> 00:01:06,330
+hogar.
+
+37
+00:01:07,060 --> 00:01:07,980
+Limpieza de datos y
+
+38
+00:01:07,980 --> 00:01:09,070
+transformación,
+
+39
+00:01:09,400 --> 00:01:10,620
+dataset duplicados, aquí
+
+40
+00:01:10,620 --> 00:01:12,580
+encontramos ciertas imperfecciones
+
+41
+00:01:12,580 --> 00:01:13,590
+en los datos.
+
+42
+00:01:15,400 --> 00:01:17,960
+Etapa 2: Al pasar a la estadística
+
+43
+00:01:17,960 --> 00:01:19,640
+descriptiva, encontramos que el
+
+44
+00:01:19,640 --> 00:01:22,160
+puntaje global promedio es de 249
+
+45
+00:01:22,160 --> 00:01:22,850
+puntos.
+
+46
+00:01:23,420 --> 00:01:25,000
+Sin embargo, la diferencia es
+
+47
+00:01:25,000 --> 00:01:25,950
+contundente.
+
+48
+00:01:26,060 --> 00:01:27,260
+Quienes tienen internet y
+
+49
+00:01:27,260 --> 00:01:29,540
+computador, promedian 42 puntos
+
+50
+00:01:29,540 --> 00:01:31,780
+más que quienes no tienen ninguno.
+
+51
+00:01:31,780 --> 00:01:33,580
+Al comparar quienes tienen y no
+
+52
+00:01:33,580 --> 00:01:35,060
+tienen internet, la diferencia es
+
+53
+00:01:35,060 --> 00:01:36,470
+de 33 puntos.
+
+54
+00:01:36,700 --> 00:01:38,210
+Una prueba t
+
+55
+00:01:39,160 --> 00:01:40,090
+de Welch
+
+56
+00:01:40,540 --> 00:01:42,380
+nos confirmó que estadísticamente
+
+57
+00:01:42,380 --> 00:01:44,790
+es significativa.
+
+58
+00:01:46,100 --> 00:01:47,680
+Con una d de Cohen de
+
+59
+00:01:47,680 --> 00:01:50,220
+0,68 indica que el efecto de
+
+60
+00:01:50,220 --> 00:01:50,870
+tamaño
+
+61
+00:01:52,420 --> 00:01:53,220
+mediano o grande.
+
+62
+00:01:53,220 --> 00:01:55,880
+En la etapa 3, que es
+
+63
+00:01:55,880 --> 00:01:57,180
+la historia detrás de los datos,
+
+64
+00:01:57,180 --> 00:01:58,660
+descubrimos que el acceso cae
+
+65
+00:01:58,660 --> 00:02:01,030
+drásticamente los bajos.
+
+66
+00:02:01,340 --> 00:02:03,140
+En estrato 1, solo la mitad
+
+67
+00:02:03,140 --> 00:02:04,170
+tiene internet.
+
+68
+00:02:04,380 --> 00:02:05,740
+Pero el hallazgo más interesante
+
+69
+00:02:05,740 --> 00:02:07,920
+es que dentro de cada estrato,
+
+70
+00:02:07,920 --> 00:02:10,140
+tener internet siempre suma entre
+
+71
+00:02:10,140 --> 00:02:12,630
+17 y 31 puntos.
+
+72
+00:02:13,260 --> 00:02:14,960
+Además existe un fuerte patrón
+
+73
+00:02:14,960 --> 00:02:15,730
+territorial.
+
+74
+00:02:16,260 --> 00:02:17,640
+Regiones como el Caribe y la
+
+75
+00:02:17,640 --> 00:02:20,580
+Amazonía concentran la mayor falta
+
+76
+00:02:20,580 --> 00:02:22,560
+de desconexión y en consecuencia
+
+77
+00:02:22,560 --> 00:02:24,600
+los puntajes más bajos de nuestra
+
+78
+00:02:24,600 --> 00:02:25,330
+muestra.
+
+79
+00:02:25,560 --> 00:02:27,760
+Para ir más allá construimos dos
+
+80
+00:02:27,760 --> 00:02:29,270
+modelos de regresión lineal.
+
+81
+00:02:29,380 --> 00:02:31,720
+El modelo simple muestra que cada
+
+82
+00:02:31,720 --> 00:02:34,160
+recurso digital se asocia con 21
+
+83
+00:02:34,160 --> 00:02:35,290
+puntos más,
+
+84
+00:02:35,700 --> 00:02:37,760
+aunque si solo se explica apenas
+
+85
+00:02:37,760 --> 00:02:39,530
+el 12 % de la variación.
+
+86
+00:02:39,880 --> 00:02:41,300
+Por eso construimos un modelo
+
+87
+00:02:41,300 --> 00:02:44,120
+múltiple que controla estrato, tipo
+
+88
+00:02:44,120 --> 00:02:46,220
+de colegio, zona, región y
+
+89
+00:02:46,220 --> 00:02:47,580
+educación de la madre.
+
+90
+00:02:47,580 --> 00:02:50,260
+En datos que prueba logra un
+
+91
+00:02:50,260 --> 00:02:53,320
+R² de 0,24 con un error
+
+92
+00:02:53,320 --> 00:02:56,090
+promedio de 36,7 puntos.
+
+93
+00:02:56,820 --> 00:02:59,320
+La validación cruzada confirma que
+
+94
+00:02:59,320 --> 00:03:01,300
+es estable, incluso con los
+
+95
+00:03:01,300 --> 00:03:03,320
+controles el modelo predice que
+
+96
+00:03:03,320 --> 00:03:05,700
+tener internet suma 10 puntos y
+
+97
+00:03:05,700 --> 00:03:07,770
+tener computador 8 puntos.
+
+98
+00:03:08,540 --> 00:03:09,520
+Adicionales de forma
+
+99
+00:03:09,520 --> 00:03:10,750
+significativa.
+
+100
+00:03:11,100 --> 00:03:13,580
+Un dato curioso es que el
+
+101
+00:03:13,580 --> 00:03:16,130
+estrato pierde su efecto cuando
+
+102
+00:03:16,920 --> 00:03:18,120
+controlamos por internet
+
+103
+00:03:18,120 --> 00:03:20,700
+computadores, tipos de colegio y
+
+104
+00:03:20,700 --> 00:03:21,600
+educación de la madre.
+
+105
+00:03:21,600 --> 00:03:24,100
+Lo que realmente importa es lo
+
+106
+00:03:24,100 --> 00:03:26,270
+que este estrato permite tener.
+
+107
+00:03:27,440 --> 00:03:28,890
+Aplicación profesional.
+
+108
+00:03:29,460 --> 00:03:31,740
+¿Cómo aplicamos esto como futuros
+
+109
+00:03:31,740 --> 00:03:33,050
+ingenieros de sistemas?
+
+110
+00:03:33,520 --> 00:03:35,220
+Proponemos construir un sistema de
+
+111
+00:03:35,220 --> 00:03:36,220
+alerta temprana.
+
+112
+00:03:36,220 --> 00:03:38,340
+Consistiría en un pipeline de
+
+113
+00:03:38,340 --> 00:03:40,960
+datos ETL conectado a la API
+
+114
+00:03:40,960 --> 00:03:43,440
+de datos.gov.co que alimenta un
+
+115
+00:03:43,440 --> 00:03:45,360
+modelo predictivo por municipio.
+
+116
+00:03:45,360 --> 00:03:47,580
+Esto se visualizaría en un
+
+117
+00:03:47,580 --> 00:03:49,820
+dashboard interactivo para que el
+
+118
+00:03:49,820 --> 00:03:51,360
+sector público sepa exactamente
+
+119
+00:03:51,360 --> 00:03:52,730
+dónde priorizar en
+
+120
+00:03:53,160 --> 00:03:55,760
+Wi-Fi público, aulas digitales y
+
+121
+00:03:55,760 --> 00:03:57,930
+maximizar el espacio educativo.
+
+122
+00:03:58,180 --> 00:03:59,440
+Ahora, para terminar, en
+
+123
+00:03:59,440 --> 00:04:01,160
+conclusión, aprendimos que limpiar
+
+124
+00:04:01,160 --> 00:04:03,460
+y preparar los datos es la
+
+125
+00:04:03,460 --> 00:04:05,500
+mitad del trabajo para que un
+
+126
+00:04:05,500 --> 00:04:06,400
+modelo funcione.
+
+127
+00:04:06,400 --> 00:04:07,880
+Comprobamos cómo la estadística
+
+128
+00:04:07,880 --> 00:04:10,400
+descriptiva convierte intuiciones
+
+129
+00:04:10,400 --> 00:04:12,740
+en evidencia sólida y cómo el
+
+130
+00:04:12,740 --> 00:04:15,880
+modelo modelado matemático y buen
+
+131
+00:04:15,880 --> 00:04:18,300
+storytelling permite comunicar
+
+132
+00:04:18,300 --> 00:04:19,940
+descubrimientos complejos de forma
+
+133
+00:04:19,940 --> 00:04:22,440
+sencilla, aunque sabemos que esta
+
+134
+00:04:22,440 --> 00:04:24,020
+asociación no implica causalidad
+
+135
+00:04:24,020 --> 00:04:26,200
+directa los datos son consistentes
+
+136
+00:04:26,200 --> 00:04:28,330
+como la conectividad es educación.
+
+137
+00:04:28,740 --> 00:04:29,610
+Muchas gracias.

@@ -14,7 +14,7 @@
 
 ## 🎥 Video de presentación
 
-**▶️ [Ver el video aquí](PEGAR_ENLACE_AL_VIDEO)** · duración:
+**▶️ [Ver el video aquí](video/Video_Brecha_Digital_Saber11.mp4)** · duración: 4:38 · [subtítulos (.srt)](video/Video_Brecha_Digital_Saber11.srt)
 
 ## 📌 Contexto
 
@@ -49,7 +49,8 @@ Como futuros ingenieros de sistemas, la conectividad y el acceso a tecnología s
 │   ├── presentacion_brecha_digital_saber11.pptx
 │   └── presentacion_brecha_digital_saber11.pdf
 └── video/
-    └── Guion_del_Video.docx      ← guion del video
+    ├── Video_Brecha_Digital_Saber11.mp4   ← video de presentación
+    └── Video_Brecha_Digital_Saber11.srt   ← subtítulos
 ```
 
 ## ▶️ Cómo ejecutar
