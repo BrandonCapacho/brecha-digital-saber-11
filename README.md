@@ -14,7 +14,7 @@
 
 ## 🎥 Video de presentación
 
-**▶️ [Ver el video aquí](video/Video_Brecha_Digital_Saber11.mp4)** · duración: 4:38 · [subtítulos (.srt)](video/Video_Brecha_Digital_Saber11.srt)
+**▶️ [Ver el video en YouTube](https://youtu.be/uVf19nhFRP0)** · duración: 4:38 · [archivo .mp4](video/Video_Brecha_Digital_Saber11.mp4) · [subtítulos (.srt)](video/Video_Brecha_Digital_Saber11.srt)
 
 ## 📌 Contexto
 
