@@ -1,6 +1,6 @@
 # 📶 Brecha digital y resultados Saber 11 en Colombia
 
-**Proyecto final · Ciencia de Datos · Universidad EAN**
+**Proyecto final · DATAXPERIENCE · Universidad EAN**
 
 > ¿Qué tanto se relaciona el acceso a internet y computador en el hogar con el puntaje global del examen Saber 11, y podemos usar esa información para predecir el desempeño de un estudiante?
 
